@@ -15,7 +15,7 @@ Security - Implement protection practices like authentication, authorization, an
 
 
 
--Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 -
 
 ANSWER:
